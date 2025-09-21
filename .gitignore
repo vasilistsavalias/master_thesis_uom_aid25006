@@ -58,3 +58,4 @@ MANIFEST
 
 # Ignore compiled LaTeX documents
 /latex_thesis/output/
+debate_ai.md 
