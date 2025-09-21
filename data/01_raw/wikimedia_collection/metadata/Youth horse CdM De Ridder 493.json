@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Youth_horse_CdM_De_Ridder_493.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Youth_horse_CdM_De_Ridder_493.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10610553",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2010-06-11 18:12:37",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Youth horse CdM De Ridder 493",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Artworks with known accession number|Artworks without Wikidata item|Corpus of Attic Vase Inscriptions|Details of ancient Greek pottery|Files with no machine-readable author|Horses in ancient Greek pottery|Self-published work|Shoulder lekythoi|Six's technique",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Youth wearing a petasos leading a horse. Attic black-figure lekythos in Six's technique.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "between 525 and 475 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2010)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

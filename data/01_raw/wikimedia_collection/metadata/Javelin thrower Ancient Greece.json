@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Javelin_thrower_Ancient_Greece.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Javelin_thrower_Ancient_Greece.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94648383",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2020-10-01 12:45:14",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Javelin thrower Ancient Greece",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Details of ancient Greek pottery|Gluteal muscles|Javelins|Psykters|Red-figure pottery|Self-published work|Terracotta psykter with athletes practicing at MET",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "This is a cropped version of a public domain image orginally found at: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.metmuseum.org/art/collection/search/248306\">https://www.metmuseum.org/art/collection/search/248306</a> \n<p>Original description from above source: Terracotta psykter (vase for cooling wine), ca. 520\u2013510 B.C., attributed to Oltos\n</p><p>Athletes practicing in gymnasium\n</p>\nThe name of each figure is inscribed: the flute player, Smikythos; the diskos thrower, Antiphanes, and his trainer, Antimenes; the broad jumper, Dorotheos (\"he is going to jump\"); the javelin thrower, Batrrachos; Kleainethos, the judge crowning the boy fair Epainetos, and his trainer, Alketes. Two inscriptions refer to the vase itself: \"drink me\" and \"I open my mouth wide.\"",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2020-10-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:RickyBennison\" title=\"User:RickyBennison\">RickyBennison</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

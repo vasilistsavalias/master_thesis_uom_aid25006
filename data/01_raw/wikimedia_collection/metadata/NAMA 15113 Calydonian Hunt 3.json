@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/NAMA_15113_Calydonian_Hunt_3.JPG",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:NAMA_15113_Calydonian_Hunt_3.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1925695",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2007-04-11 15:56:45",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "NAMA 15113 Calydonian Hunt 3",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks with known accession number|Artworks without Wikidata item|Attic red-figure amphora of the Calydonian hunt, NAMA 15113|Details of ancient Greek pottery|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Meleager Painter",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Calydonian Boar Hunt: Atalanta sits holding a spear, surrounded by Meleager, possibly Tydeus, and other heroes. Attic red-figure amphora, 400-375 BC. Unknown provenance.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"https://fr.wikipedia.org/wiki/Utilisateur:Marsyas\" class=\"extiw\" title=\"fr:Utilisateur:Marsyas\">Marsyas</a> (2007)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

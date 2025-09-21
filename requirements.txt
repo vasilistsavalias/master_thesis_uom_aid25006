@@ -1,0 +1,38 @@
+# Core PyTorch stack (CUDA 11.8 compatible)
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.2+cu118
+
+# Hugging Face ecosystem (upgraded for stability)
+huggingface-hub
+transformers
+diffusers[torch]
+accelerate
+safetensors
+
+# Data and ML
+numpy==1.24.3
+scipy==1.11.1
+pandas==2.0.3
+scikit-learn==1.3.0
+scikit-image==0.21.0
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+seaborn==0.12.2
+Pillow==10.1.0
+
+# Utilities
+loguru
+PyYAML
+tqdm
+requests
+packaging
+datasets
+optuna
+python-box
+
+# Dev Tools
+ruff
+black
+pre-commit

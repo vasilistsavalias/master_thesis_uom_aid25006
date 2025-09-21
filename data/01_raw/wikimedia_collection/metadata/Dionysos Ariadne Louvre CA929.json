@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Dionysos_Ariadne_Louvre_CA929.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dionysos_Ariadne_Louvre_CA929.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2084774",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2007-05-10 13:45:47",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Dionysos Ariadne Louvre CA929",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "370s BC pottery in France|380s BC pottery in France|390s BC pottery in France|400s BC pottery in France|Ariadne in ancient Greek pottery|Artworks with known accession number|Artworks without Wikidata item|Attic red-figure pottery in France|Calyx kraters|Details of ancient Greek pottery|Dionysos and Ariadne in ancient art|Dionysos in ancient Greek pottery|Louvre Museum - Room 651|Nude females in ancient Greek pottery|PD-self|Self-published work|Taken with Nikon D200|Template Unknown (artist)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Dionysos and Ariadne. Detail from the side A of an Attic red-figure calyx-krater, ca. 400-375 BC. From Thebes.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2007)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

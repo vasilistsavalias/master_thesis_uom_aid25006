@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Winged_goddess_Cdm_Paris_392.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Winged_goddess_Cdm_Paris_392.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2183960",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2011-12-13 21:06:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Winged goddess Cdm Paris 392",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "5th-century BC pottery in France|5th-century BC winged figures|5th-century BC works in Paris|Ancient Greek pottery from Agrigento|Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Artworks with known accession number|Artworks without Wikidata item|Caduceus|Deer in art|Details of ancient Greek pottery|Iris in ancient Greek pottery|Nike in ancient Greek pottery|Oinochoes in ancient Greek pottery|PD-self|Pelikai|Phialai in ancient Greek pottery|Providence Painter|Self-published work|Winged figures in France",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Providence Painter",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Winged female figure holding a caduceus\u00a0: Iris (messenger of the gods) or Nike (Victory). Detail from an Attic red-figure pelike, middle of 5th century BC. From Agrigento, Sicilia.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2006). Image renamed from <a href=\"//commons.wikimedia.org/w/index.php?title=File:Winged_Nike_CdM.jpg&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"File:Winged Nike CdM.jpg (page does not exist)\">Image:Winged Nike CdM.jpg</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

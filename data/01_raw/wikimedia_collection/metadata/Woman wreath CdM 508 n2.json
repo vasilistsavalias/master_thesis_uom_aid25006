@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Woman_wreath_CdM_508_n2.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Woman_wreath_CdM_508_n2.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10568989",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2010-06-06 20:48:14",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Woman wreath CdM 508 n2",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery alabastra|Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Artworks with known accession number|Artworks without Wikidata item|Attic red-figure pottery|Corpus of Attic Vase Inscriptions|Details of ancient Greek pottery|Files with no machine-readable author|Self-published work|Women on ancient Greek pottery|Wreaths in art",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Woman seated to the right with a wreath. Detail from an Attic red-figure alabastron, 500\u2013450 BC.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2010)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

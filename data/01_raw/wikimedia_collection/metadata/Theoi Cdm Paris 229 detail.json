@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Theoi_Cdm_Paris_229_detail.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Theoi_Cdm_Paris_229_detail.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17523792",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2011-11-29 19:36:30",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Theoi Cdm Paris 229 detail",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "6th-century BC pottery in France|Ancient Greek Neck amphoras|Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Artworks with known accession number|Artworks without Wikidata item|Details of ancient Greek pottery|PD-self|Self-published work|Talaria|Three-Line Group|Zeus in ancient Greek pottery",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Three-Line Group",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Hermes, Athena, Zeus (seated), Hera et Ares (all named). Side A of an Attic black-figure neck-amphora, end of 6th century BC.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bibi_Saint-Pol\" title=\"User:Bibi Saint-Pol\">User:Bibi Saint-Pol</a>, own work, 2007-10-27",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

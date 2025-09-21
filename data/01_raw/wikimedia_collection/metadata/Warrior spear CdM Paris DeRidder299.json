@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Warrior_spear_CdM_Paris_DeRidder299.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Warrior_spear_CdM_Paris_DeRidder299.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3845153",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2008-04-07 18:47:28",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Warrior spear CdM Paris DeRidder299",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "5th-century BC pottery in France|Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Arrows in art|Artworks with known accession number|Artworks without Wikidata item|Athena Painter|Challenges to physical balance|Corpus of Attic Vase Inscriptions|Details of ancient Greek pottery|Hoplite fights in ancient Greek pottery|Self-published work|Taken with Nikon D200|White-ground lekythoi",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Athena Painter",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Warrior holding a spear under a rain of arrows; nonsensical inscription. Attic white-ground black-figured lekythos, ca. 475\u2013425 BC.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2008)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

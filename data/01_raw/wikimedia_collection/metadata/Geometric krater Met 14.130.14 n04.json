@@ -1,0 +1,85 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Geometric_krater_Met_14.130.14_n04.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geometric_krater_Met_14.130.14_n04.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12845367",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2017-03-21 19:12:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Geometric krater Met 14.130.14 n04",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks with known accession number|Artworks without Wikidata item|Details of ancient Greek pottery|Nude females in ancient Greek pottery|Prothesis|Rogers Fund - Ceramics|Self-published work|Terracotta krater, MET 14.130.14|Terracotta krater Metropolitan Museum of Art 14.130.14",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q1347891\" class=\"extiw\" title=\"d:Q1347891\"><span title=\"ancient Attic-Greek vase-painter of late gemetric age\">Hirschfeld Painter</span></a></bdi>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "<div class=\"description\">\nMourners at a prothesis (laying out of the dead person), detail from the upper tier of a monumental Attic Geometric krater.</div>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "between circa 750 and circa 735 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2011)",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

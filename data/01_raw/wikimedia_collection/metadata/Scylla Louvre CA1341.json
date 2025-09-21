@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Scylla_Louvre_CA1341.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scylla_Louvre_CA1341.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=689807",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2006-04-08 09:10:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Scylla Louvre CA1341",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "430s BC pottery in France|440s BC pottery in France|450s BC pottery in France|Artworks with known accession number|Artworks without Wikidata item|Attic red-figure pottery in France|Author died more than 100 years ago public domain images|Bell kraters|Boeotian red-figure pottery|CC-PD-Mark|Details of ancient Greek pottery|Louvre Museum - Room 651|Nude females in ancient Greek pottery|PD-self|Scylla in ancient Greek pottery|Self-published work|Taken with Nikon D70|Template Unknown (artist)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Scylla. Detail from side A from a Boeotian red-figure bell-crater, 450\u2013425 BC.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2006)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

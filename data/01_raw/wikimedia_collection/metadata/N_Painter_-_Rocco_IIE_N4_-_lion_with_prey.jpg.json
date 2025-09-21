@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/N_Painter_-_Rocco_IIE_N4_-_lion_with_prey.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:N_Painter_-_Rocco_IIE_N4_-_lion_with_prey.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90148331",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2020-05-13 10:32:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "N Painter - Rocco IIE N4 - lion with prey",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek oinochoes|Ancient Greek vases in the Ancient Agora Museum (Athens)|N Painter (Proto-Atic)|Proto-Attic pottery in the Ancient Agora Museum (Athens)|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "object type / vase shape: protoattic oinochoe\n<p>- description neck: lion with prey\n- production place: Athens\n- painter: n Painter\n- period / date: early protoattic, ca. 700 BC\n- material: pottery (clay)\n- height: 11,8 cm\n- findspot: Athens, Agora, well N 11:4\n- museum / inventory number: Athens, Ancient Agora Museum P 22436\n- bibliography: Giulia Rocco, La ceramografia protoattica: pittori e botteghe (710 - 630 a.C.), Rahden/Westfalen 2008, cat. IIE N4\n</p>\n- Please note: The above museum permits photography of its exhibits for private, educational, scientific, non-commercial purposes. If you intend to use the photo for any commercial aime, please contact the museum and ask for permission.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2014-10-16 09:56:27",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

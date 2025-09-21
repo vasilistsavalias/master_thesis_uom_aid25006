@@ -1,0 +1,26 @@
+% preamble.tex - All document settings and packages.
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[
+    backend=biber,
+    style=ieee,
+]{biblatex}
+\usepackage{hyperref}
+
+% --- Hyperlink Setup ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,	
+    urlcolor=cyan,
+}
+
+% --- Graphics Path ---
+% Tells LaTeX to look in the 'figures' directory for images
+\graphicspath{ {./figures/} }
+
+% --- Custom Commands ---
+% \newcommand{\mycommand}{...}
+

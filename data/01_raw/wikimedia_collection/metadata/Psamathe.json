@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Psamathe.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Psamathe.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93264441",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2020-08-18 13:44:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Psamathe",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Achilles Painter|CC-PD-Mark|Details of ancient Greek pottery|Nereids in ancient Greek pottery|PD-Art (PD-old-70)|Red-figure pottery",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Detail of the fleeing Nereid Psamathe from a painting depicting Peleus' capture of Thetis. In myth, Psamathe was captured in similar fashion by Peleus' father Aeacus.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "ca 450 B.C / vers 450 avant J.C.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Internet",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "\u0152uvre attribu\u00e9e au Peintre d'Achilles",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

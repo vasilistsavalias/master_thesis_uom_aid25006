@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Greek_physician_and_patient%2C_plaster_cast_in_W.H.M.M._Wellcome_M0001578.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Greek_physician_and_patient,_plaster_cast_in_W.H.M.M._Wellcome_M0001578.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36311186",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2014-10-22 12:58:02",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "<div class=\"fn\">\nGreek physician and patient, plaster cast in W.H.M.M.</div>",
+            "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek medicine|Ancient Greek reliefs in the United Kingdom|Artworks without Wikidata item|Drawings by Greek vase paintings|Files from Wellcome Images|Files from Wellcome Images (check needed)|Files with no machine-readable author|Greek and Roman Times in the Wellcome Collections|Himation|Images uploaded by F\u00e6|Reliefs of Rod of Asclepius",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "<div class=\"description\">\n<p>Greek physician and patient, plaster cast in W.H.M.M.\n</p>\n<p>Wellcome Images<br>\nKeywords: history of medicine-greek; ancient medicine</p></div>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/1f/a3/b6e0809a670f6ee058677f425268.jpg\">https://wellcomeimages.org/indexplus/obf_images/1f/a3/b6e0809a670f6ee058677f425268.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/M0001578.html\">https://wellcomeimages.org/indexplus/image/M0001578.html</a></li>\n<li>Wellcome Collection gallery (2018-03-29): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/tukbs6sp\">https://wellcomecollection.org/works/tukbs6sp</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

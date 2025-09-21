@@ -1,0 +1,85 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Papposilenoi_Met_25.78.66_n02.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Papposilenoi_Met_25.78.66_n02.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13743734",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2011-02-23 20:38:36",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Papposilenoi Met 25.78.66 n02",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "420s BC pottery in the United States|Artworks with known accession number|Artworks without Wikidata item|Attic red-figure Pottery at the Department of Greek and Roman Art, Metropolitan Museum of Art|Bell kraters|Chelys lyres in ancient Greek pottery|Corpus of Attic Vase Inscriptions|Details of ancient Greek pottery|Fletcher Fund|Papposilenus in ancient Greek pottery|Pollion|Self-published work|Sileni in ancient Greek pottery",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Attributed to Polion",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Singers at the Panathenaia: Papposilenoi holding lyres walking towards a flute-player. Side A of an Attic red-figure bell-krater.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "circa 420 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2011)",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

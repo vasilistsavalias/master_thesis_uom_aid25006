@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Rhodian_Oinochoe_MFA_03.90.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhodian_Oinochoe_MFA_03.90.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63639698",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2017-10-27 00:16:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Rhodian Oinochoe MFA 03.90",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek oinochoes|Ancient Greek orientalizing pottery in the Museum of Fine Arts, Boston|Animals in ancient Greek pottery|Birds in ancient Greek pottery|Flowers in ancient pottery|Images by Marcus Cyron (MFA, 2017)|Rhodian pottery in the United States",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Rhodian ceramic trefoil Oinochoe (Pitcher) in the Wild Goat Style: band of flowers, animals and birds. Oriantalizing period, late 7th century B.C. Museum of Fine Arts, Boston (03.90), Gift of Mrs. S. T. Morse 1903.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2017-08-04",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Picture: <a href=\"//commons.wikimedia.org/wiki/User:Marcus_Cyron\" title=\"User:Marcus Cyron\">Marcus Cyron</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "Picture: <a href=\"//commons.wikimedia.org/wiki/User:Marcus_Cyron\" title=\"User:Marcus Cyron\">Marcus Cyron</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fischer_von_Erlach_Architektur_134.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fischer_von_Erlach_Architektur_134.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14532223",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2011-03-09 17:43:19",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Fischer von Erlach Architektur 134",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-PD-Mark|Drawings by Greek vase paintings|Entwurf einer historischen Architektur|Johann Bernhard Fischer von Erlach|PD-Art (PD-old-auto-expired)|PD-Art missing SDC copyright status|PD-old-100-expired|PD-old missing SDC copyright status",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Illustration from \"Entwurff einer historischen Architectur\" (Project of a historic architecture). \nTwo greek vases and the project of a little palace.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "1721",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Die bibliophilen Taschenb\u00fccher, Nr. 18, Harenberg/Dortmund 1984. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>\u00a0<a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3921846188\" title=\"Special:BookSources/3921846188\">3921846188</a>.",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johann_Bernhard_Fischer_von_Erlach\" class=\"extiw\" title=\"w:en:Johann Bernhard Fischer von Erlach\"><span title=\"sculptor and architect from Austria (1656-1723)\">Johann Bernhard Fischer von Erlach</span></a></bdi>",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "PD-old",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

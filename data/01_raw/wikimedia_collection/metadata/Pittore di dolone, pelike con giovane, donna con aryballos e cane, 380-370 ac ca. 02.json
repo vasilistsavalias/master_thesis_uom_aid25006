@@ -1,0 +1,93 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pittore_di_dolone%2C_pelike_con_giovane%2C_donna_con_aryballos_e_cane%2C_380-370_ac_ca._02.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pittore_di_dolone,_pelike_con_giovane,_donna_con_aryballos_e_cane,_380-370_ac_ca._02.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51829617",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2016-09-28 11:13:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Pittore di dolone, pelike con giovane, donna con aryballos e cane, 380-370 ac ca. 02",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "All media supported by Wikimedia CH|Apulian pottery in the Museo archeologico nazionale Domenico Ridola|Artworks without Wikidata item|Cultural heritage monuments in Italy missing SDC location of creation|Cultural heritage monuments in Italy with known IDs|Details of ancient Greek pottery|Dogs in ancient Greek pottery|Dolon Painter|Files with coordinates missing SDC location of creation|Images by Sailko - Supported by Wikimedia CH|Images from Wiki Loves Monuments 2016|Images from Wiki Loves Monuments 2016 in Italy|Images from Wiki Loves Monuments 2016 in Italy - Basilicata|Images from Wiki Loves Monuments missing SDC inception|Images from Wiki Loves Monuments missing SDC location of creation|Italian MiBAC disclaimer warning|Pelikai|Photographs by User:Sailko|Photographs of antiquities by User:Sailko - Ceramics|Red-figure pottery in Italy|Self-published work|Uploaded via Campaign:wlm-it",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "GPSLatitude": {
+            "value": "40.663860",
+            "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+            "value": "16.609220",
+            "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a></div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "This is a photo of a monument which is part of <a href=\"https://en.wikipedia.org/wiki/Cultural_heritage\" class=\"extiw\" title=\"en:Cultural heritage\">cultural heritage</a> of <a href=\"https://en.wikipedia.org/wiki/Italy\" class=\"extiw\" title=\"en:Italy\">Italy</a>. This monument participates in the contest <a href=\"https://it.wikipedia.org/wiki/Progetto:Wiki_Loves_Monuments_2016\" class=\"extiw\" title=\"it:Progetto:Wiki Loves Monuments 2016\">Wiki Loves Monuments Italia 2016</a>. See <a rel=\"nofollow\" class=\"external text\" href=\"https://workspace.wikimedia.it/s/7wQqJ87Cy2b55oR\">authorisations</a>.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "11 August 2016, 11:03:35",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "ita-mibac",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

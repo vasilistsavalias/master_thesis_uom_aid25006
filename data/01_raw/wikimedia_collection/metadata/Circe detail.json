@@ -1,0 +1,89 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Circe_detail.png",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Circe_detail.png",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104406096",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-04-26 14:04:27",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Circe detail",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "490s BC pottery in Athens|Athena Painter|CC-PD-Mark|Circe in ancient Greek pottery|Details of ancient Greek pottery|Extracted images|Files with coordinates missing SDC location of creation|PD-Art (PD-old-70)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "GPSLatitude": {
+            "value": "37.989167",
+            "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+            "value": "23.732500",
+            "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Circe and Odysseus, white-ground lekythos by the Athena Painter, ca. 490\u2013480 BCE. From Eretria. National Archaeological Museum in Athens, 1133. Originally photographed and uploaded by Marsyas, 2005. Colors improved by AishaAbdel, 2017. Detail cropped by GrandEscogriffe, 2021.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "circa -490",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "This image has been <b>extracted</b> from another file",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Athena_Painter\" class=\"extiw\" title=\"w:en:Athena Painter\"><span title=\"vase painter\">Athena Painter</span></a></bdi>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

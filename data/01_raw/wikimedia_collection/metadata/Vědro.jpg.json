@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/V%C4%9Bdro.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:V%C4%9Bdro.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49604337",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2016-06-20 18:45:15",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "V\u011bdro",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery|Archaeological Museum of Isthmia|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Bronzov\u00e9 v\u011bdro, Poseid\u00f3n\u016fv chr\u00e1m 6 st. p\u0159. n. l.; \u0158\u00edmsk\u00e1 v\u00e1za",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2015-09-02 10:26:33",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Axbim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Axbim (page does not exist)\">Axbim</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

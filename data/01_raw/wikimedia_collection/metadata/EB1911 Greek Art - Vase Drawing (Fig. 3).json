@@ -1,0 +1,81 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/EB1911_Greek_Art_-_Vase_Drawing_%28Fig._3%29.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:EB1911_Greek_Art_-_Vase_Drawing_(Fig._3).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46281947",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2016-01-10 19:18:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "EB1911 Greek Art - Vase Drawing (Fig. 3)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Drawings by Greek vase paintings|Images from Encyclop\u00e6dia Britannica|PD Britannica|Template Unknown (author)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Drawing of an ancient Greek vase painting.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "published 1911",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<i>Encyclop\u00e6dia Britannica</i> (11th ed.), v. 12, 1911, p. 474, Fig. 3.",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png\" decoding=\"async\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image comes from the 13<sup>th</sup> edition of the <a href=\"https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica\" class=\"extiw\" title=\"w:Encyclop\u00e6dia Britannica\">Encyclop\u00e6dia Britannica</a> or earlier. The <a href=\"https://en.wikipedia.org/wiki/Copyrights\" class=\"extiw\" title=\"w:Copyrights\">copyrights</a> for that book have expired in the United States because the book was first published in the US with the publication occurring <a rel=\"nofollow\" class=\"external text\" href=\"https://www.britannica.com/topic/Encyclopaedia-Britannica-English-language-reference-work/Eleventh-edition-and-its-supplements\">before</a> January 1, 1930. As such, this image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ad_Encyclopaedia-Britannica_05-1913.jpg/120px-Ad_Encyclopaedia-Britannica_05-1913.jpg\" decoding=\"async\" width=\"80\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ad_Encyclopaedia-Britannica_05-1913.jpg/250px-Ad_Encyclopaedia-Britannica_05-1913.jpg 2x\" data-file-width=\"406\" data-file-height=\"256\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

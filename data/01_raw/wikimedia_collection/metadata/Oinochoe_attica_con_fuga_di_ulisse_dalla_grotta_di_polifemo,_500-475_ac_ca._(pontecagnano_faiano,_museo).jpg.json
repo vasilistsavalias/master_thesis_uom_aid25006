@@ -1,0 +1,93 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Oinochoe_attica_con_fuga_di_ulisse_dalla_grotta_di_polifemo%2C_500-475_ac_ca._%28pontecagnano_faiano%2C_museo%29.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oinochoe_attica_con_fuga_di_ulisse_dalla_grotta_di_polifemo,_500-475_ac_ca._(pontecagnano_faiano,_museo).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115251804",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-02-14 12:29:13",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Oinochoe attica con fuga di ulisse dalla grotta di polifemo, 500-475 ac ca. (pontecagnano faiano, museo)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "All media supported by Wikimedia CH|Ancient Greek oinochoes|Files with coordinates missing SDC location of creation|Images by Sailko - Supported by Wikimedia CH|Italian MiBAC disclaimer warning|Museo archeologico nazionale (Pontecagnano Faiano)|Photographs by User:Sailko|Photographs of antiquities by User:Sailko - Ceramics|Polyphemus in ancient Greek pottery|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "GPSLatitude": {
+            "value": "44.221310",
+            "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+            "value": "12.035648",
+            "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Ulisse. L'arte e il mito (2020 exhibition)",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2020-08-13 12:09:09",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "ita-mibac",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Dion%C3%ADsio%281%29.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dion%C3%ADsio(1).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887310",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2017-11-05 21:57:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Dion\u00edsio(1)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery|CC-Zero|Dion\u00edsio(1)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Working Title/Artist: Bell-krater (mixing bowl)Department: Greek&amp;Roman ArtCulture/Period/Location: HB/TOA Date Code: Working Date: 350\u2013325 B.C.photography by mma, Digital File DP114783.tifretouched by film and media (jnc) 11_30_10",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2006-06-22 13:33:45",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.metmuseum.org/toah/works-of-art/1976.11.5/\">https://www.metmuseum.org/toah/works-of-art/1976.11.5/</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "Python",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

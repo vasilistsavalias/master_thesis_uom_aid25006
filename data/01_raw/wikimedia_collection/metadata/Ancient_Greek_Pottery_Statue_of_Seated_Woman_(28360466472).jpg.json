@@ -1,0 +1,93 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ancient_Greek_Pottery_Statue_of_Seated_Woman_%2828360466472%29.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_Pottery_Statue_of_Seated_Woman_(28360466472).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109096019",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-08-21 13:30:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Ancient Greek Pottery Statue of Seated Woman (28360466472)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery statuettes|CC-Zero|Files uploaded by Orizan|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Gary Lee Todd|Taken with Canon EOS 600D|Vases in the National Archaeological Museum of Greece",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "GPSLatitude": {
+            "value": "37.989031",
+            "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+            "value": "23.732700",
+            "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Ancient Greek Vase Gallery, National Archaeological Museum of Greece, Athens, Greece. Complete indexed photo collection at WorldHistoryPics.com.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2016-07-20 23:24",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/28360466472/\">Ancient Greek Pottery Statue of Seated Woman</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

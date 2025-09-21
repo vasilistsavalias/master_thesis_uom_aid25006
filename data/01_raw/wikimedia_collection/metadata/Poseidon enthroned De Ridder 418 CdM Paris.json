@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Poseidon_enthroned_De_Ridder_418_CdM_Paris.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Poseidon_enthroned_De_Ridder_418_CdM_Paris.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3836900",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2008-04-06 08:56:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Poseidon enthroned De Ridder 418 CdM Paris",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery from Agrigento|Ancient Greek pottery in the Cabinet des m\u00e9dailles, Paris|Artworks with known accession number|Artworks without Wikidata item|Calyx kraters|Details of ancient Greek pottery|Poseidon in ancient Greek pottery|Self-published work|Syriskos Painter|Taken with Nikon D200",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Syriskos Painter",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Poseidon greeting Theseus (on the right). Detail, side A from an Attic red-figured calyx-krater, first half of the 5th century BC. From Agrigento.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Marie-Lan Nguyen (<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">User:Jastrow</a>), 2008-04-04",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

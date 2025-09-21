@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Greek_open_angular_harp.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Greek_open_angular_harp.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123931802",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-10-09 01:08:22",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Greek open angular harp",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-PD-Mark|Carl Engel|Drawings by Greek vase paintings|Greek harps|Harps in art|Muses|PD-old-70-expired",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "A Greek muse with an open angular harp, from a Greek vase in the Munich Museum. Date unknown, ancient Greece.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "1908",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Cropped Wikimedia Commons image: <a href=\"//commons.wikimedia.org/wiki/File:A_muse_with_a_harp,_and_two_others_with_Lyres_from_a_Greek_vase_in_the_Munich_Museum.jpg\" title=\"File:A muse with a harp, and two others with Lyres from a Greek vase in the Munich Museum.jpg\">File:A muse with a harp, and two others with Lyres from a Greek vase in the Munich Museum.jpg</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<p>Unknown Greek artist\n</p>\nUnknown photographer/engraver from 1908 A.D.",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

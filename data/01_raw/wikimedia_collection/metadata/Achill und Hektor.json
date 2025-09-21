@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Achill_und_Hektor.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Achill_und_Hektor.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74341902",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2018-11-12 15:20:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Achill und Hektor",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Achilles and the body of Hector|Drawings by Greek vase paintings",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Greek vase representation of the duel between Achill and Hector before Troy.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2001-01-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Arch\u00e4ologisches Landesmuseum Baden-W\u00fcrttemberg et al. (Hrsg.): Troja. Traum und Wirklichkeit. Stuttgart 2001, S. 132.",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "Arch\u00e4ologisches Landesmuseum Baden-W\u00fcrttemberg et al. (Hrsg.)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

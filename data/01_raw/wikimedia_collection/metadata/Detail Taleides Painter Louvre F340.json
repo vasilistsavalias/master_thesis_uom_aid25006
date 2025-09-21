@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Detail_Taleides_Painter_Louvre_F340.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Detail_Taleides_Painter_Louvre_F340.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1512835",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2007-01-01 10:11:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Detail Taleides Painter Louvre F340",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "520s BC pottery in France|Agamemnon in ancient Greek pottery|Artworks with known accession number|Artworks without Wikidata item|Attic black-figure pottery in France|Details of ancient Greek pottery|Judgement of arms|Louvre F 340|Louvre Museum - Room 653|PD-self|Self-published work|Taken with Nikon D200|Taleides Painter",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Taleides Painter",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Agamemnon's head, detail from the dispute between Ajax and Odysseus for Achilles' armour. Attic black-figure oinochoe, ca. 520 BC.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Marie-Lan Nguyen (<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">User:Jastrow</a>), 2006",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

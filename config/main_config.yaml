@@ -1,0 +1,83 @@
+# ==============================================================================
+# Main Project Configuration (V2 - GDM Architecture)
+# ==============================================================================
+# This file is the single source of truth for all parameters used across the
+# entire project pipeline. It follows the centralized GDM-style architecture.
+
+# --- Global Parameters ---
+global_params:
+  project_name: "ancient_greek_artifact_restoration"
+  version: 2.0
+  timestamp: {timestamp} # To be filled by the application for unique run IDs
+  random_state: 42
+
+# --- Artifacts & Paths ---
+# Centralized paths for all inputs and outputs.
+artifacts_root: "outputs" # Changed from "output" to "outputs" for consistency
+
+data_paths:
+  raw_images: "data/01_raw/wikimedia_collection"
+  processed_images: "outputs/01_processed_images"
+  split_data: "outputs/02_split_data" # Train/Val/Test sets
+  inpainting_dataset: "outputs/03_inpainting_dataset"
+
+# --- Logging ---
+logging:
+  log_dir: "logs"
+  main_log_file: "thesis_pipeline.log"
+  log_level: "INFO"
+
+# ==============================================================================
+# STAGE-SPECIFIC CONFIGURATIONS
+# ==============================================================================
+
+# --- Stage 01: Data Acquisition ---
+data_acquisition:
+  wikimedia_api_url: "https://commons.wikimedia.org/w/api/php"
+  start_category: "Category:Ancient_Greek_pottery_in_the_Louvre"
+  download_limit: 200
+
+# --- Stage 02: Exploratory Data Analysis ---
+exploratory_data_analysis:
+  output_dir: "outputs/00_eda_reports"
+  image_extensions: [".jpg", ".jpeg", ".png"]
+
+# --- Stage 03: Data Processing ---
+data_processing:
+  image_size: [512, 512]
+  format: "PNG"
+
+# --- Stage 04: Data Splitting ---
+data_splitting:
+  test_size: 0.15
+  validation_size: 0.15 # Relative to the remainder after test split
+
+# --- Stage 05: Feature Engineering (Masking) ---
+feature_engineering:
+  mask_strategy: "random_rectangle"
+  mask_config:
+    min_mask_size_ratio: 0.1
+    max_mask_size_ratio: 0.4
+
+# --- Stage 05: Hyperparameter Tuning ---
+hyperparameter_tuning:
+  output_file: "outputs/04_hyperparameters/best_hyperparameters.yaml"
+
+# --- Stage 06: Model Training ---
+training:
+  hyperparameters_file: "outputs/04_hyperparameters/best_hyperparameters.yaml"
+  output_dir: "outputs/05_trained_models"
+  device: "cuda"
+
+# --- Stage 07: Model Evaluation ---
+model_evaluation:
+  trained_model_dir: "outputs/05_trained_models"
+  output_dir: "outputs/06_evaluation_results"
+  num_inference_steps: 50
+  num_samples_to_evaluate: 20
+
+# --- Stage 08: Deployment Preparation ---
+deployment_preparation:
+  model_input_dir: "outputs/05_trained_models/unet_final"
+  hyperparams_input_file: "outputs/04_hyperparameters/best_hyperparameters.yaml"
+  output_dir: "outputs/07_deployment_package"

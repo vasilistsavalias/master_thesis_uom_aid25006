@@ -1,0 +1,60 @@
+# Python
+# ==============================================================================
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# ==============================================================================
+# Project-Specific Ignores
+# ==============================================================================
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Ignore all log files
+/logs/
+
+# Ignore all generated artifacts in the pipeline stages.
+# This prevents large data files, models, and reports from being committed.
+/outputs/
+/data/02_intermediate/
+
+# Ignore the top-level models directory
+/models/
+
+# Ignore compiled LaTeX documents
+/latex_thesis/output/

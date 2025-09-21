@@ -1,0 +1,91 @@
+# ==============================================================================
+# SMOKE TEST Configuration (V2 - GDM Architecture)
+# ==============================================================================
+# This file contains the bare minimum parameters for a fast, end-to-end MVP run.
+
+# --- Global Parameters ---
+global_params:
+  project_name: "ancient_greek_artifact_restoration_smoke_test"
+  version: 2.0
+  timestamp: {timestamp}
+  random_state: 42
+
+# --- Artifacts & Paths ---
+artifacts_root: "outputs_smoke_test" # Use a separate output dir for smoke tests
+
+data_paths:
+  raw_images: "data/01_raw/wikimedia_collection"
+  processed_images: "outputs_smoke_test/01_processed_images"
+  split_data: "outputs_smoke_test/02_split_data"
+  inpainting_dataset: "outputs_smoke_test/03_inpainting_dataset"
+
+# --- Logging ---
+logging:
+  log_dir: "logs"
+  main_log_file: "thesis_pipeline_smoke_test.log"
+  log_level: "INFO"
+
+# ==============================================================================
+# STAGE-SPECIFIC CONFIGURATIONS
+# ==============================================================================
+
+# --- Stage 01: Data Acquisition ---
+data_acquisition:
+  wikimedia_api_url: "https://commons.wikimedia.org/w/api/php"
+  start_category: "Category:Ancient_Greek_pottery_in_the_Louvre"
+  download_limit: 2 # Bare minimum
+
+# --- Stage 02: Exploratory Data Analysis ---
+exploratory_data_analysis:
+  output_dir: "outputs_smoke_test/00_eda_reports"
+  image_extensions: [".jpg", ".jpeg", ".png"]
+
+# --- Stage 03: Data Processing ---
+data_processing:
+  image_size: [64, 64] # Smaller size for faster processing
+  format: "PNG"
+
+# --- Stage 04: Data Splitting ---
+data_splitting:
+  test_size: 0.5 # Create small but non-empty splits
+  validation_size: 0.5 # Relative to the remainder
+
+# --- Stage 05: Feature Engineering (Masking) ---
+feature_engineering:
+  mask_strategy: "random_rectangle"
+  mask_config:
+    min_mask_size_ratio: 0.2
+    max_mask_size_ratio: 0.4
+
+# --- Stage 06: Hyperparameter Tuning ---
+# For the smoke test, we don't run tuning. We just write a dummy file.
+hyperparameter_tuning:
+  output_file: "outputs_smoke_test/04_hyperparameters/best_hyperparameters.yaml"
+  dummy_hyperparameters:
+    learning_rate: 0.0002
+    adam_beta1: 0.5
+    adam_beta2: 0.999
+    adam_weight_decay: 0.01
+    adam_epsilon: 1.0e-08
+
+# --- Stage 07: Model Training ---
+training:
+  hyperparameters_file: "outputs_smoke_test/04_hyperparameters/best_hyperparameters.yaml"
+  output_dir: "outputs_smoke_test/05_trained_models"
+  device: "cpu" # Use CPU for smoke test to avoid CUDA errors if not present
+  train_batch_size: 1
+  num_epochs: 2
+  save_model_epochs: 1
+
+# --- Stage 08: Model Evaluation ---
+model_evaluation:
+  trained_model_dir: "outputs_smoke_test/05_trained_models"
+  output_dir: "outputs_smoke_test/06_evaluation_results"
+  num_inference_steps: 2
+  num_samples_to_evaluate: 2
+
+# --- Stage 09: Deployment Preparation ---
+deployment_preparation:
+  model_input_dir: "outputs_smoke_test/05_trained_models/unet_final"
+  hyperparams_input_file: "outputs_smoke_test/04_hyperparameters/best_hyperparameters.yaml"
+  output_dir: "outputs_smoke_test/07_deployment_package"

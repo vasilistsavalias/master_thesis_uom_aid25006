@@ -1,0 +1,81 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Reproducci%C3%B3_de_la_plana_d%27un_llibre_on_es_veu_una_placa_de_terracota.jpeg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reproducci%C3%B3_de_la_plana_d%27un_llibre_on_es_veu_una_placa_de_terracota.jpeg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138616230",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2023-10-08 16:12:46",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Reproducci\u00f3 de la plana d'un llibre on es veu una placa de terracota",
+            "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Greek pottery|Greek Ceramics in the Louvre|Images from Mem\u00f2ria Digital de Catalunya|PD-Art (PD-Spain-anon-80)|PD-Art missing SDC copyright status|PD-Spain-anon-80|Photographs by unknown author in Mem\u00f2ria Digital de Catalunya",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\n<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span></div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "<div class=\"description\">\nImatge</div>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "19--",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://mdc.csuc.cat/digital/collection/afceccf/id/21375\">https://mdc.csuc.cat/digital/collection/afceccf/id/21375</a>",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "Please give also an explanation why the work is in the public domain in the United States. If this work was published after 1930 and it was not in the public domain in Spain on the URAA date (January 1, 1996), use <a href=\"//commons.wikimedia.org/wiki/Template:Not-PD-US-URAA\" title=\"Template:Not-PD-US-URAA\"><span style=\"font-family:monospace,monospace;\">{{Not-PD-US-URAA}}</span></a> in addition to this template.<br>For files in the public domain in the European Union, please use <a href=\"//commons.wikimedia.org/wiki/Template:PD-anon-70-EU\" title=\"Template:PD-anon-70-EU\"><span style=\"font-family:monospace,monospace;\">{{PD-anon-70-EU}}</span></a>.",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

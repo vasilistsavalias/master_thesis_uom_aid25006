@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kylix_Theseus_Aison_MNA_Inv11365_n1_%28Atenea%29.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kylix_Theseus_Aison_MNA_Inv11365_n1_(Atenea).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98997570",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-01-19 19:24:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Kylix Theseus Aison MNA Inv11365 n1 (Atenea)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Aison Cup|Artworks with known accession number|Artworks without Wikidata item|Athena in ancient Greek pottery|Details of ancient Greek pottery|Extracted images|Gorgoneia in ancient Greek pottery|Kylix interiors|Meanders in ancient Greek pottery|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Aison_(vase_painter)\" class=\"extiw\" title=\"w:en:Aison (vase painter)\"><span title=\"ancient Attic-Greek red-figure vase painter\">Aison</span></a></bdi>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "Tondo of the <a href=\"//commons.wikimedia.org/wiki/Category:Aison_Cup\" title=\"Category:Aison Cup\"><i><b>Aison Cup</b></i></a>, showing the victory of <a href=\"//commons.wikimedia.org/wiki/Category:Theseus\" title=\"Category:Theseus\">Theseus</a> over the <a href=\"//commons.wikimedia.org/wiki/Category:Minotaur\" title=\"Category:Minotaur\">Minotaur</a> in the presence of <a href=\"//commons.wikimedia.org/wiki/Category:Athena\" title=\"Category:Athena\">Athena</a>.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Marie-Lan Nguyen (<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">User:Jastrow</a>), 2008-05-02",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

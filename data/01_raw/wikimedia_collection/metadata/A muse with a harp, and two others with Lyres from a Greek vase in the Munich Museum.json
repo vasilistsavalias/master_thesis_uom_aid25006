@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/A_muse_with_a_harp%2C_and_two_others_with_Lyres_from_a_Greek_vase_in_the_Munich_Museum.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_muse_with_a_harp,_and_two_others_with_Lyres_from_a_Greek_vase_in_the_Munich_Museum.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123917778",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-10-08 14:54:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "A muse with a harp, and two others with Lyres from a Greek vase in the Munich Museum",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-PD-Mark|Carl Engel|Drawings by Greek vase paintings|Harps in art|Lyres in art|PD-old-70-expired|PD-old missing SDC copyright status",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Image engraved of a scene from a Greek vase, then kept at the Munich Museum, current location unknown to uploader; only black-and white photos and engravings can be found in books and the internet.\n<p>The scene shows three muses playing instruments. The harp was identified by musicologist Carl Engel as a <a href=\"https://en.wikipedia.org/wiki/Trigonon\" class=\"extiw\" title=\"w:Trigonon\">Trigonon</a> in his book \"Musical Instruments.\"\n</p><p>Text accompanying image from the book:\n</p>\n<pre>Fig. 6.\u2014A Muse with a Harp, and two others with Lyres.\n</pre>\nFrom a Greek vase in the Munich Museum.  The design on the Greek vase at Munich (already alluded to) represents the nine Muses, of whom three are given in the engraving (Fig. 6), viz., one with the harp, and two others with lyres. Some of the lyres were provided with a bridge, while others were without it. The largest was held probably on or between the knees, or were attached to the left arm by means of a band, to enable the performer to use his hands 30without impediment. The strings, made of catgut or sinew, were more usually twanged with a plektron than merely with the fingers. The plektron was a short stem of ivory or metal pointed at both ends.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "1908",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<p>book: \"Musical Instruments\" by Carl Engel\npublic domain work on Project Gutenberg\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.gutenberg.org/files/65505/65505-h/65505-h.htm#fig_6\">https://www.gutenberg.org/files/65505/65505-h/65505-h.htm#fig_6</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<p>Unknown Greek artist\n</p>\nUnknown photographer/engraver from 1908 A.D.",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aegisthus.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aegisthus.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10482966",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2010-05-29 06:49:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Aegisthus",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Aegisthus in ancient Greek pottery|Artworks without Wikidata item|CC-PD-Mark|Clytemnestra in ancient Greek pottery|Details of ancient Greek pottery|Files with no machine-readable author|Orestes in ancient Greek pottery|PD-old missing SDC copyright status|PD Old",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Orestes\" class=\"extiw\" title=\"en:Orestes\">Orestes</a> slaying <a href=\"https://en.wikipedia.org/wiki/Clytemnestra\" class=\"extiw\" title=\"en:Clytemnestra\">Clytemnestra</a>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<ul><li>Transferred from <span class=\"plainlinks\"><a class=\"external text\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Sreejithk2000\" title=\"User:Sreejithk2000\">Sreejithk2000</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"http://www.timelessmyths.com/classical/gallery/aegisthus.jpg\">http://www.timelessmyths.com/classical/gallery/aegisthus.jpg</a></li></ul>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

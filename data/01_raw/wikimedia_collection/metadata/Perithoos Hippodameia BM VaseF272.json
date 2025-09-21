@@ -1,0 +1,76 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Perithoos_Hippodameia_BM_VaseF272.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Perithoos_Hippodameia_BM_VaseF272.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2593760",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2007-08-20 18:15:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Perithoos Hippodameia BM VaseF272",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks with known accession number|Artworks without Wikidata item|Attic red-figure pottery in the British Museum|Calyx kraters|Centaurs in ancient Greek pottery|Details of ancient Greek pottery|Hippodamia (wife of Pirithous) in ancient Greek pottery|Laodameia Painter|Name vase|Nude females in ancient Greek pottery|Nude males in ancient Greek pottery|Pirithous in ancient Greek pottery|Rape of Hippodamia (wife of Pirithous)|Room 73, British Museum|Self-published work|Taken with Nikon D200|Theseus and the Centaur|Theseus in ancient Greek pottery",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "Laodameia Painter (name piece)",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "A centaur tries to carry off Hippodameia (here called Laodameia) while Perithoos and Theseus resist. Detail from an Apulian red-figure calyx-krater, ca. 350-340 BC. From Anzi.",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2007)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

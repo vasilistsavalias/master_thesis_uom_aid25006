@@ -1,0 +1,72 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Preparations_for_a_wedding_-_ancient_Greek_ceramic_painting.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Preparations_for_a_wedding_-_ancient_Greek_ceramic_painting.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52151879",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2016-10-09 07:39:55",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Preparations for a wedding - ancient Greek ceramic painting",
+            "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks without Wikidata item|CC-PD-Mark|Details of ancient Greek pottery|Marriage in Ancient Greek art|PD Old|Template Unknown (author)|Uploaded with Commonist",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "5<sup>th</sup> century <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a><div style=\"display: none;\">date QS:P571,-450-00-00T00:00:00Z/7</div>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "Scanned by Szilas from the book J. M. Roberts: Kelet-\u00c1zsia \u00e9s a klasszikus G\u00f6r\u00f6gorsz\u00e1g (East Asia and Classical Greece)",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

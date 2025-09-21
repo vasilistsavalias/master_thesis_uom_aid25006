@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Javelin_throwers_Ancient_Greece.png",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Javelin_throwers_Ancient_Greece.png",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61912174",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2017-08-24 19:19:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Javelin throwers Ancient Greece",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Ancient Olympic Games|CC-Zero|Drawings by Greek vase paintings|Javelins|Jumpers (athletes)|Panathenaic amphoras|Pentathlon|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Pentathlon scene from Ancient Greece, featuring two javelin throwers. The first figure holds his javelin at the carry, while the third figure aims with his; the fingering of the amentum is clearly shown on each. Panathenaic amphora, about 525 B.C. British Museum. \nImage and description source: 'Throwing the Javelin' in <i>Athletics of the Ancient World</i> (1930), Gardiner, E. Norman. Reprinted with corrections, Oxford:Oxford University Press, 1967, p.170, fig. 139.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2017-08-24",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:RickyBennison\" title=\"User:RickyBennison\">RickyBennison</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

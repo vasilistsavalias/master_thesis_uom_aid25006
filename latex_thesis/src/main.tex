@@ -1,0 +1,38 @@
+% main.tex - The root document for the thesis.
+
+\documentclass{report}
+
+% --- Import Preamble ---
+% All packages, custom commands, and document settings are in preamble.tex
+\input{preamble.tex}
+
+% --- Bibliography ---
+\addbibresource{bibliography.bib}
+
+\begin{document}
+
+% --- Title Page ---
+\title{Ancient Greek Artifact Restoration using Deep Learning}
+\author{V. Tsavaris}
+\date{\today}
+\maketitle
+
+% --- Abstract ---
+\begin{abstract}
+    Your abstract goes here.
+\end{abstract}
+
+% --- Table of Contents ---
+\tableofcontents
+
+% --- Include Chapters ---
+% Each chapter is a separate .tex file in the 'chapters' directory.
+\input{chapters/01_introduction.tex}
+% \input{chapters/02_related_work.tex}
+% ... etc ...
+
+% --- Print Bibliography ---
+\printbibliography
+
+\end{document}
+

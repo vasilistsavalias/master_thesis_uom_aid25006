@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ancient_Greek_sprinters_vase_cropped.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_sprinters_vase_cropped.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94737506",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2020-10-04 14:54:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Ancient Greek sprinters vase cropped",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Details of ancient Greek pottery|Gluteal muscles|Self-published work|Sprinting|Terracotta Panathenaic prize amphora at MET",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "This is a cropped version of a larger public domain image found at The Met Museum ( <a rel=\"nofollow\" class=\"external free\" href=\"https://www.metmuseum.org/art/collection/search/248902\">https://www.metmuseum.org/art/collection/search/248902</a> ) along with the following description: \n<p>'Terracotta Panathenaic prize amphora\nca. 530 B.C.\nAttributed to the Euphiletos Painter\n</p><p>On view at The Met Fifth Avenue in Gallery 899\n</p><p>Obverse, Athena\nReverse, footrace\n</p>\nThe Euphiletos Painter was trained in the black-figure technique. It is interesting to compare the firm, deliberate incision in his works with the looser, freer line of artists like the Berlin Painter. The footrace is one of the earliest known events in the Panathenaic games.'",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2011-02-01 11:38:20",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:RickyBennison\" title=\"User:RickyBennison\">RickyBennison</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

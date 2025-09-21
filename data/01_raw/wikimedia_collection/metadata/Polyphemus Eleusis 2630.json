@@ -1,0 +1,90 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Polyphemus_Eleusis_2630.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polyphemus_Eleusis_2630.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1353019",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2006-11-09 12:22:13",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Polyphemus Eleusis 2630",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks with known accession number|Artworks without Wikidata item|Details of ancient Greek pottery|GFDL|License migration completed|Pages with complex technique templates|Polyphemus amphora, Archaeological Museum of Eleusis 2630|Self-published work|Swastikas in ancient Greek pottery|User-created GFDL images",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\nPolyphemos Painter</div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "<div class=\"description\">\n<i>Eleusis Amphora</i>: funerary proto-Attic amphora. Detail of the neck: Odysseus and his men blinding the cyclops Polyphemus.</div>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "circa 660 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"https://nl.wikipedia.org/wiki/Gebruiker:Napoleon_Vier\" class=\"extiw\" title=\"nl:Gebruiker:Napoleon Vier\">Gebruiker:Napoleon Vier</a> on Wikipedia nl (file was <a href=\"https://nl.wikipedia.org/wiki/Afbeelding:Cycloop.jpg\" class=\"extiw\" title=\"nl:Afbeelding:Cycloop.jpg\">nl:Afbeelding:Cycloop.jpg</a>). <span class=\"int-own-work\" lang=\"en\">Own work</span>, 2003.",
+            "source": "commons-desc-page"
+        },
+        "Permission": {
+            "value": "<a href=\"https://nl.wikipedia.org/wiki/User:Napoleon_Vier\" class=\"extiw\" title=\"nl:User:Napoleon Vier\">Napoleon Vier</a> from <a href=\"https://nl.wikipedia.org/wiki/\" class=\"extiw\" title=\"nl:\">nl</a>, the copyright holder of this work, hereby publishes it under the following license:",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Attribution": {
+            "value": "<a href=\"https://nl.wikipedia.org/wiki/User:Napoleon_Vier\" class=\"extiw\" title=\"nl:User:Napoleon Vier\">Napoleon Vier</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

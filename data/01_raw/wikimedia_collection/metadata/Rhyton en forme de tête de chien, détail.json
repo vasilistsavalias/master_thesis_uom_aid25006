@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rhyton_en_forme_de_t%C3%AAte_de_chien%2C_d%C3%A9tail.JPG",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhyton_en_forme_de_t%C3%AAte_de_chien,_d%C3%A9tail.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9851392",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2010-03-27 22:59:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Rhyton en forme de t\u00eate de chien, d\u00e9tail",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Artworks without Wikidata item|CC-BY-SA-3.0,2.5,2.0,1.0|Chelys lyres in ancient Greek pottery|Details of ancient Greek pottery|Dog shaped Rhyton by the Brygos Painter in Aleria|GFDL|License migration redundant|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Artist": {
+            "value": "<div class=\"fn value\">\nPeintre de Brygos</div>",
+            "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+            "value": "<div class=\"description\">\nRhyton \u00e0 t\u00eate de chien</div>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "4 September 2006",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clio20\" title=\"User:Clio20\">Clio20</a>, <span class=\"int-own-work\" lang=\"en\">Own work</span>, 2006-09-04",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}

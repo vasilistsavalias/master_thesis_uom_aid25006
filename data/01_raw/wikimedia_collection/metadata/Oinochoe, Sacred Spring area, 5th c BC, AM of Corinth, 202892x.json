@@ -1,0 +1,80 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Oinochoe%2C_Sacred_Spring_area%2C_5th_c_BC%2C_AM_of_Corinth%2C_202892x.jpg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oinochoe,_Sacred_Spring_area,_5th_c_BC,_AM_of_Corinth,_202892x.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105611652",
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-05-21 14:34:30",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "Oinochoe, Sacred Spring area, 5th c BC, AM of Corinth, 202892x",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "5th-century BC art in Corinth|5th-century BC pottery in Greece|Ancient Greek oinochoes|Ancient Greek pottery in the Archaeological Museum of Ancient Corinth|Sacred Spring of Corinth|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Oinochoe from the Sacred Spring area, 450-425 BC. Archaeological Museum of Ancient Corinth",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2020-09-28 09:48:52",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    }
+}
